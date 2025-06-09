@@ -48,8 +48,8 @@
 ## About Me
 
 My name is Carlos and I'm a backend developer from Brazil, currently working for CI&T in a B2B Global Ecommerce 😃
-I have 2 years of experience, one year working with IT projects and support and another year working as a backend developer, as well as lots of personal projects developed during my graduation!
-Aside from that, I'm also studying to become a game developer 🎮
+I have 3 years of experience, one year working with project management and support and two years working as a backend developer, as well as lots of personal projects developed during my graduation!
+Aside from that, I'm also a game developer in my free time 🎮
 
 ## Interests
 
@@ -57,9 +57,14 @@ My main interests are game development and software architecture! I'm looking to
 
 ## Portfolio
 
-I've already developed some games using the Unity engine for personal projects and game jams, below there are some of them!
+I've developed some games using the Unity engine for personal projects and game jams, below there are some of them!
 
-If you are interested in more details about my expertise, you can see my resume [here](https://drive.google.com/file/d/1ZxJODAiW7use-SSWIuQtJFtqumlieozf/view?usp=sharing) 😄
+If you are interested in more details about my expertise, you can see my resume [here](https://docs.google.com/document/d/1E0cxXwG0kBAQXmGrRBCg7ex76FnZpeY6alEteF4SH9A/edit?usp=sharing) 😄
+
+---
+**Mobile Mimics**
+
+My first ever launched game. It is a mobile party game designed to manage a mime game. You can customize your game and choose the best theme for your group. If you like to gather friends at home and play some games this is perfect for you! It is available for android devices in the [Play Store](https://play.google.com/store/apps/details?id=com.cpstudio.mobilemimics)
 
 ---
 
