@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cadupereira21&show_icons=true&locale=en&layout=compact&theme=kacho_ga&hide=shaderlab,hlsl" alt="m4nko" height="180em"/>
 </div>
 
-## Tech Stack
+### Tech Stack
 <div>
   <a href = "https://unity.com/" target="blank">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="blank"/>
@@ -45,17 +45,17 @@
   </a>
 </div>
 
-## About Me
+# About Me
 
 My name is Carlos and I'm a backend developer from Brazil, currently working for CI&T in a B2B Global Ecommerce 😃
 I have 3 years of experience, one year working with project management and support and two years working as a backend developer, as well as lots of personal projects developed during my graduation!
 Aside from that, I'm also a game developer in my free time 🎮
 
-## Interests
+### Interests
 
 My main interests are game development and software architecture! I'm looking to participate in game jams and personal game projects to improve my expertise in this field!
 
-## Portfolio
+# Portfolio
 
 I've developed some games using the Unity engine for personal projects and game jams, below there are some of them!
 
@@ -78,48 +78,6 @@ Play the game at [Unity Play](https://play.unity.com/en/games/fe4fdde1-c4a0-4cc4
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=dont-fall-down-scripts&theme=kacho_ga"/>
   </a>
 </p>
----
-
-**Data Persistence Challenge**
-
-Another study case from Junior Programmer Pathway! I implemented data persistence between scenes using a singleton object and data persistence between sessions using a JSON save file!
-Play the game at [Unity Play](https://play.unity.com/pt/games/88d71626-d25e-4731-a66a-f81ec5bf8a6d/data-persistence-challenge)
-
-<p>
-  <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=data-persistence-challenge&theme=kacho_ga"/>
-  </a>
-</p>
-
----
-
-**Away From Home**
-
-Game developed following a youtube tutorial from Gabriel Dechichi, in which I learned to use unity!
-play this game at [Unity Play](https://play.unity.com/mg/other/away-from-home)
-
-<p>
-  <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=AwayFromHome&theme=kacho_ga"/>
-  </a>
-</p>
-
----
-
-**Isn't that Flappy Bird**
-
-One of the first games I developed using Unity! You can play this game at [Unity Play](https://play.unity.com/mg/other/isn-t-that-flappy-bird)
-  
----
-
-**Project Trail Hiker**
-
-One of the games I developed during a game jam!
-<p>
-  <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=ProjectTrailHiker&theme=kacho_ga"/>
-  </a>
-</p>
 
 ---
 
@@ -135,18 +93,7 @@ I developed the old pong game using Unity to practice a little bit!
 
 ---
 
-**Mobile Study Game**
-
-A mobile game I developed for studying purposes following Gabriel Dechichi's youtube tutorial!
-
-<p>
-  <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=Mobile2DGame&theme=kacho_ga"/>
-  </a>
-</p>
-
-
-## Connect With Me
+# Connect With Me
 <div>
   <a href="mailto:carloseduardo2101@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
