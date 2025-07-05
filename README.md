@@ -74,8 +74,8 @@ Game Developed following Unity's Junior Programmer Pathway! I implemented some f
 Play the game at [Unity Play](https://play.unity.com/en/games/fe4fdde1-c4a0-4cc4-b225-9c63d30b1c27/dont-fall-down)
 
 <p>
-  <a>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=dont-fall-down-scripts&theme=kacho_ga"/>
+  <a href = "https://github.com/cadupereira21/dont-fall-down">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=dont-fall-down&theme=kacho_ga"/>
   </a>
 </p>
 
@@ -86,7 +86,7 @@ Play the game at [Unity Play](https://play.unity.com/en/games/fe4fdde1-c4a0-4cc4
 I developed the old pong game using Unity to practice a little bit!
 
 <p>
-  <a>
+  <a href = "https://github.com/cadupereira21/PongGame">
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=cadupereira21&repo=PongGame&theme=kacho_ga"/>
   </a>
 </p>
@@ -100,8 +100,5 @@ I developed the old pong game using Unity to practice a little bit!
   </a>
   <a href="https://linkedin.com/in/carlospereira21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://linkedin.com/in/carlospereira21" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
 </div>
